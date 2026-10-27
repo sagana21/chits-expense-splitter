@@ -1,6 +1,9 @@
 # Chits: Group Expense Splitter
 
 Track shared expenses in a group (hostel room, flat, trip) and see exactly **who owes whom**, using the fewest possible payments.
+Project Demo Video->
+https://drive.google.com/file/d/15PfRmM-fSLDqQId1v4sCVCfkzqgAVIJZ/view?usp=drivesdk
+
 
 ## Core workflows
 1. **Sign up / log in** (JWT authentication).
